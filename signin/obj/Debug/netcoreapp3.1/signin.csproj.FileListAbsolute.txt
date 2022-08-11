@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projects1\signin\signin\bin\Debug\netcoreapp3.1\signin.exe
+C:\Users\User\Desktop\projects1\signin\signin\bin\Debug\netcoreapp3.1\signin.deps.json
+C:\Users\User\Desktop\projects1\signin\signin\bin\Debug\netcoreapp3.1\signin.runtimeconfig.json
+C:\Users\User\Desktop\projects1\signin\signin\bin\Debug\netcoreapp3.1\signin.runtimeconfig.dev.json
+C:\Users\User\Desktop\projects1\signin\signin\bin\Debug\netcoreapp3.1\signin.dll
+C:\Users\User\Desktop\projects1\signin\signin\bin\Debug\netcoreapp3.1\signin.pdb
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.AssemblyInfo.cs
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.dll
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.pdb
+C:\Users\User\Desktop\projects1\signin\signin\obj\Debug\netcoreapp3.1\signin.genruntimeconfig.cache
